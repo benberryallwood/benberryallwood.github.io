@@ -1656,7 +1656,7 @@ form > .fields > .field.half {
   width: calc(50% - 0.75em);
 }
 form > .fields > .field.third {
-  width: calc(100%/3 - 0.5em);
+  width: calc(33.3333333333% - 0.5em);
 }
 form > .fields > .field.quarter {
   width: calc(25% - 0.375em);
