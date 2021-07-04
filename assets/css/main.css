@@ -2304,6 +2304,11 @@ body.is-touch .tiles article .content {
   text-transform: uppercase;
   display: inline-block;
 }
+@media (width < 332px) {
+  #header .logo {
+    text-align: center;
+  }
+}
 #header .logo > * {
   display: inline-block;
   vertical-align: middle;
